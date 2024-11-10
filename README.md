@@ -10,7 +10,7 @@ This package can decrypt those files, which contains settings and cache files.
 ## Installation
 
 ```shell
-go get github.com/0z0sk0/tdgodecrypt)
+go get github.com/0z0sk0/tdgodecrypt
 ```
 
 ## Credit
